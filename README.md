@@ -14,5 +14,6 @@ I started coding at 13, inspired by YouTube and Reels — and now I’m building
 - Blog: [How I became a dev at 16 →](https://dev.to/sailikhith_gb_d4e7440980/how-i-became-a-full-stack-developer-at-16-my-journey-from-bengaluru-to-the-web-bmb)
 - GitHub: [@sailikhithking](https://github.com/sailikhithking)
 - LinkedIn: [Sai Likhith GB](https://www.linkedin.com/in/sai-likhith-g-b-180b332a4)
+- 📖 Wikidata: [wikidata]([https://www.wikidata.org/wiki/QXXXXXX](https://www.wikidata.org/wiki/Q135197223))
 
 📢 I’m just getting started — watch this space.
