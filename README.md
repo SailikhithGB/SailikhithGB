@@ -1,4 +1,4 @@
-# SailikhithGB-
+# SailikhithGB
 # 👋 Hey, I'm Sai Likhith GB
 
 🚀 A 16-year-old full-stack developer from Bengaluru, India.  
